@@ -1,0 +1,6 @@
+inquirer
+coloroma
+gTTS
+Pillow
+pytesseract
+pdf2image
