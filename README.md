@@ -15,5 +15,3 @@ A python script that helps you with text in **images & PDFs** :snake:
 ## Future Goals :dart:
 - [ ] Make CLI more beautiful
 - [ ] Refactor code to be more readable
-
-[^note] This project was done as a hobby
