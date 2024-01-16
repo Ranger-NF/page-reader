@@ -1,6 +1,6 @@
 inquirer
-coloroma
+colorama
 gTTS
 Pillow
-pytesseract
 pdf2image
+tkinter
