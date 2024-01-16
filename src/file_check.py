@@ -2,7 +2,6 @@ import os
 from colorama import Fore
 img_file_extensions = ['.png', '.jpg', '.jpeg']
 
-
 def check_valid_file(file_path):
     filename, file_extension = os.path.splitext(file_path)
 
